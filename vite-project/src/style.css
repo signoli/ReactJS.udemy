@@ -1,0 +1,25 @@
+html, body {
+    background-color: black;
+    font-family: Helvetica, Arial, sans-serif;
+    color:aliceblue;
+    font-size: 1rem;
+}
+
+p {
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+}
+
+button {
+    background:#ccffcc;
+    padding: 10px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+button:hover {
+    background-color: chartreuse;
+}
+
+button:active {
+    background-color: brown;
+}
